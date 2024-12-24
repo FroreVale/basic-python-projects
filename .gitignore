@@ -159,3 +159,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Ignore PyCharm project settings
+.idea/
